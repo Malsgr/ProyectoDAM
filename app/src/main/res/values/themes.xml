@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App theme. AppCompat-based so that any AppCompat activity (like FirebaseUI's)
+         never hits "You need to use a Theme.AppCompat theme". Compose draws its own UI. -->
+    <style name="Theme.ProyectoDAM" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <!-- Theme passed explicitly to FirebaseUI sign-in screens -->
+    <style name="Theme.ProyectoDAM.Auth" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
